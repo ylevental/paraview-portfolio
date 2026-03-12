@@ -4,7 +4,7 @@ Demonstrations of scientific visualization techniques in [ParaView](https://www.
 
 ## Projects
 
-### [Indiana Statewide Lidar — Land Cover Classification](indiana-lidar/)
+### [Indiana Statewide Lidar - Land Cover Classification](indiana-lidar/)
 
 Categorical land cover visualization of an airborne lidar point cloud. Identified and corrected a flight strip classification inconsistency in the source data.
 
