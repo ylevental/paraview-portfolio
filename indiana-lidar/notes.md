@@ -1,4 +1,4 @@
-# Indiana Statewide Lidar — Land Cover Classification
+# Indiana Statewide Lidar - Land Cover Classification
 
 ## Dataset
 
