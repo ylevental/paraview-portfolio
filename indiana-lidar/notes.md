@@ -23,7 +23,7 @@ The corrected visualization contains four land cover classes based on ASPRS LAS 
 
 The raw dataset exhibited a visible banding pattern aligned with flight line swaths. Inspection revealed inconsistent ground labeling between processing batches: some strips labeled ground as ASPRS class 0 (Never Classified), while others used class 2 (Ground). Vegetation (class 5) was consistent across all strips, confirming all strips had been classified — the inconsistency was limited to ground label convention.
 
-**Fix:** Calculator filter — `if(Classification == 0, 2, Classification)`
+**Fix:** Calculator filter - `if(Classification == 0, 2, Classification)`
 
 ### Point density banding
 
