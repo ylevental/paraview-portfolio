@@ -1,16 +1,24 @@
 # ParaView Scientific Visualization Portfolio
 
-Demonstrations of scientific visualization techniques in [ParaView](https://www.paraview.org/), with a focus on airborne lidar point cloud analysis and geospatial data processing.
+Demonstrations of scientific visualization techniques in [ParaView](https://www.paraview.org/), with a focus on airborne lidar point cloud analysis and medical imaging.
 
 ## Projects
 
-### [Indiana Statewide Lidar - Land Cover Classification](indiana-lidar/)
+### [Indiana Statewide Lidar — Land Cover Classification](indiana-lidar/)
 
 Categorical land cover visualization of an airborne lidar point cloud. Identified and corrected a flight strip classification inconsistency in the source data.
 
 | Raw Classification | Corrected Classification |
 |---|---|
 | ![Raw](indiana-lidar/classification-raw.png) | ![Corrected](indiana-lidar/classification-corrected.png) |
+
+### [CT Head — Volume Rendering](ct-head/)
+
+Volume rendering of a CT head scan demonstrating transfer function manipulation, opacity curve tuning, and medical imaging visualization.
+
+| Frontal View | Oblique View |
+|---|---|
+| ![Frontal](ct-head/CT-head.png) | ![Oblique](ct-head/CT-head-top.png) |
 
 ## Tools
 
