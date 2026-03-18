@@ -4,7 +4,7 @@ Demonstrations of scientific visualization techniques in [ParaView](https://www.
 
 ## Projects
 
-### [Indiana Statewide Lidar — Land Cover Classification](indiana-lidar/)
+### [Indiana Statewide Lidar - Land Cover Classification](indiana-lidar/)
 
 Categorical land cover visualization of an airborne lidar point cloud. Identified and corrected a flight strip classification inconsistency in the source data.
 
@@ -12,7 +12,7 @@ Categorical land cover visualization of an airborne lidar point cloud. Identifie
 |---|---|
 | ![Raw](indiana-lidar/classification-raw.png) | ![Corrected](indiana-lidar/classification-corrected.png) |
 
-### [CT Head — Volume Rendering](ct-head/)
+### [CT Head - Volume Rendering](ct-head/)
 
 Volume rendering of a CT head scan demonstrating transfer function manipulation, opacity curve tuning, and medical imaging visualization.
 
