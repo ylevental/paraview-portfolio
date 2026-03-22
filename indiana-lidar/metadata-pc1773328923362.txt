@@ -1,0 +1,54 @@
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 2410799, 2410800 and 2410801
+
+Dataset Information:
+	Dataset Name: 2011 - 2013 Indiana Statewide Lidar
+	Dataset Short Name: IN_2011_2013
+	DOI: https://doi.org/10.5069/G9959FHZ
+	Dataset Acknowledgement: Ownership of the data products resides with the State of Indiana.  All Lidar, DEM and ancillary data products produced through this project are public domain data.  These data represent a public version of the data set and hold no distribution restrictions - please cite the data set as 'IndianaMap Framework Data' with link to http://www.indianamap.org.
+	Dataset Citation: IndianaMap (2011): IndianaMap Framework Lidar. Indiana Statewide Imagery and LiDAR Program. Distributed by OpenTopography. https://doi.org/10.5069/G9959FHZ.. Accessed 2026-03-22
+	Horizontal Coordinates: WGS84 [EPSG: 4326]
+	Vertical Coordinates: NAVD88
+
+Job Description:
+	User:[Guest] yhl3051@rit.edu
+	Job ID: pc1773328923362
+	Title: 
+	Description:
+
+Job Processing Result:
+	Submission Time: 2026-03-12 15:22:03
+	Completion Time: 2026-03-12 15:22:44
+	Duration: 41 seconds
+	Number of Points: 6,624,003
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: -85.85286715161057
+	Xmax: -85.83525467757137
+	Ymin: 40.263502958871726
+	Ymax: 40.27743899457144
+	Classifications: all
+	Exclude Noise: No
+
+Point Cloud Results:
+	Download point cloud data format: laz
+
+DEM Generation (TIN):
+	Calculate TIN: Yes
+	Grid Format: GTiff
+	Resolution: 1
+	Max Triangle Size: 50
+
+Raster Visualization: None
+
+3D Point Cloud Visualization: No
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	Area D8: No
+
+Contour Lines:
+	Generate contour lines: No
